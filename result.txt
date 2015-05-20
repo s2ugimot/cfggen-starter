@@ -1,0 +1,7 @@
+# SAMPLE TEMPLATE
+
+Taro Yamada is 30 years old.
+
+Hanako Yamada is 28 years old.
+
+

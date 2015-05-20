@@ -1,0 +1,7 @@
+- name: Taro Yamada
+  age: 30
+  todos:
+    - subject: Something to do
+      due_date: next Monday
+- name: Hanako Yamada
+  age: 28
